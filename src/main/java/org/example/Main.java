@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(final String... args) {
 
-        int resultadoSoma = OperacoesMatematicas.soma(1, 4);
+        double resultadoSoma = OperacoesMatematicas.soma(1, 4);
         System.out.println(resultadoSoma);
 
         double resultadoSubtracao = OperacoesMatematicas.subtracao(1, 4);
@@ -16,7 +16,7 @@ public class Main {
         double resultadoDivisao = OperacoesMatematicas.divisao(7, 2);
         System.out.println(resultadoDivisao);
 
-        int resultadoPotenciacao = OperacoesMatematicas.potenciacao(2, 3);
+        double resultadoPotenciacao = OperacoesMatematicas.potenciacao(2, 3);
         System.out.println(resultadoPotenciacao);
 
     }
