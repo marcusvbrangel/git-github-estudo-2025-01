@@ -19,15 +19,28 @@ git branch -M main
 git push -u origin main
 
 
+----------------------------------------------------------------------------
 
+Nota ao fazer o push: git push -u origin main ,
+foi solicitado um access token obrigatório para repositórios https.
 
+eu gerei o access token no gitbub...
+
+novamente efeturei o push.... passando o token para o nome e para a senha...
+
+Ok...
 
 ----------------------------------------------------------------------------
 
+git switch -c developer
+
+git branch
+
+git switch <branch>
 
 
-----------------------------------------------------------------------------
-
+git branch -d <nome-da-branch>
+git branch -D <nome-da-branch>
 
 
 ----------------------------------------------------------------------------
