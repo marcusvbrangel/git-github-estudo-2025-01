@@ -60,7 +60,9 @@ git push -u origin feature/sub-header-readme
 
 ----------------------------------------------------------------------------
 
+git switch developer
 
+git pull origin developer
 
 ----------------------------------------------------------------------------
 
